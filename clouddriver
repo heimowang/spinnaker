@@ -1,1 +1,1 @@
-FROM FROM gcr.io/spinnaker-marketplace/halyard:stable
+FROM gcr.io/spinnaker-marketplace/halyard:stable
